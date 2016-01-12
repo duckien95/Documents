@@ -1,0 +1,15 @@
+﻿-icloud
+-imei:*#06#
+selfsove.apple.com
+www.icloud.com/activationlock/
+-bóp nhẹ góc máy kiểm tra vênh
+-2 con ốc cuối máy
+-nút nguồn,nút bấm home, âm lượng
+-chấm nước kiểm tra màn hình
+-di chuyển ứng dụng
+-test điểm chết
+-bật ghi âm, mic kiểm tra nếu có sóng âm -> chuẩn
+-gọi 900 kiểm tra loa thoại và loa ngoài
+-che  loa thoại đẻ kiểm tra cảm biến
+-kiểm tra con quay la bàn
+-kiểm tra camera
